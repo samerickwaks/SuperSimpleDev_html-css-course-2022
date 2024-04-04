@@ -1,0 +1,1 @@
+This HTML CSS full course is a series of HTML CSS tutorials, teaching the major skills that we need to create complex websites. Each HTML CSS tutorial builds on a project and provides some HTML CSS exercises to practice what we learned.
